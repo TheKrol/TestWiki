@@ -1,0 +1,10 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.DS_STORE
+*.swp
+.obsidian/
+.trash/
+Gemfile.lock
+.vscode/
