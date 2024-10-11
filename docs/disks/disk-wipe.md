@@ -9,7 +9,7 @@ last_modified_date: 2024-02-23
 redirect_from: /books/troubleshooting-with-a-linux-live-session/page/wiping-disks
 ---
 
-# Wiping Disks
+# Wiping Disks Hello
 {% include embeds/use-linux-live-session.md %}
 
 ## Encrypted disks
