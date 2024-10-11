@@ -7,7 +7,7 @@ parent: Disks
 search_exclude: false
 last_modified_date: 2023-01-10
 ---
-# Using chkdsk Hello
+# Using chkdsk
 `chkdsk` is a utility to check and repair issues with the filesystems on disks in Windows. 
 
 > Interrupting chkdsk is not recommended. However, canceling or interrupting chkdsk should not leave the volume any more corrupt than it was before chkdsk was run. Running chkdsk again checks and should repair any remaining corruption on the volume.
