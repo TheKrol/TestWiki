@@ -1,0 +1,8 @@
+{
+  "author": {
+    "name": "HP Caps Lock",
+    "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/2048px-HP_logo_2012.svg.png"
+  },
+  "color": 4083687,
+  "description": "HP recently made updated their software, making it so you get on screen notifications upon toggling keys like caps lock. There can be disabled with a registry tweak, but it can also be disabled by killing the HP System Event Utility task.\n\n1: Open Task Manager (Ctrl+Shift+Esc)\n2: Locate \"HP System Event Utility\" and end the task\n3: Go to the \"Startup\" tab, and find and disable HP System Event Utility\n\nHowever, Special function keys like airplane mode may stop working because of the task not running. Volume keys seem to be unaffected."
+}
