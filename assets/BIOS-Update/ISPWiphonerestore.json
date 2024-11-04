@@ -1,0 +1,12 @@
+{
+    "author": {
+        "name": "Restore an Apple device with IPSW file",
+        "icon_url": "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac_apps/appleconfigurator/psp-mini-hero-configurator-icon_2x.png"
+    },
+    "fields": [
+	{
+	    "name": "To restore your Apple device:",
+	    "value": "1. Download the version of iTunes for your OS from Apple's Website https://www.apple.com/itunes/ \n2. Connect your iPhone to your PC/Mac with a lightning cable.\n3. Download your device's IPSW from here: https://ipsw.me\n4. Click on the iPhone icon located in the top left corner of the screen. It will be on the right next to a drop down menu.\n5. Hold shift and left click `Restore iPhone...` and locate the ISPW file."
+	}
+	]
+}
