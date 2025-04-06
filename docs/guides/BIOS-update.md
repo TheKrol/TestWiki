@@ -74,6 +74,8 @@ For best results, the USB should only contain the update file and nothing else.
 
 With the update file on the USB, you can now commit to actually updating the BIOS. As mentioned beforehand, there are multiple methods to update the BIOS, the two most common are usually either updating the BIOS from the BIOS directly, or using the motherboard's onboard BIOS flashing option.
 
+![redwings](/assets/BIOS-Update/Detroit_Red_Wings_logo.svg.png)
+
 - ## Method 1: Updating the BIOS within the BIOS
     
     Different motherboards have different BIOS and therefore will operate in different ways. In this case, you may have to look for a "BIOS Update" option in the BIOS directly, which can either be found in the "general" view or even the "advanced view" (may be named differently due to different BIOS and different manufacturers). 
