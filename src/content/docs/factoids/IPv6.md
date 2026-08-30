@@ -6,6 +6,7 @@ has_children: false
 parent: Factoids
 pagefind: true
 last_modified_date: 2022-08-29
+description: This page is for information on how to disable and enable IPv6 on Windows.
 ---
 
 
