@@ -11,6 +11,8 @@ next: false
 draft: false
 ---
 
+This is a test
+
 If your app is lagging, freezing, crashing, or not opening at all, here are some simple steps you can try to fix it. This guide explains what each step does and how to do it, for both Android and iOS devices.
 
 **Before doing anything else**, restart your phone — a simple restart can fix many temporary issues as Apps malfunctioning. It’s also a good idea to check for system updates. Keeping your operating system up to date helps ensure apps run smoothly and stay compatible.
